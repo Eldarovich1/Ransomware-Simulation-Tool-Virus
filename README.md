@@ -19,9 +19,10 @@ Create a new folder, for example: RansomwareProject
 Copy all downloaded files into this folder
 
 C:\RansomwareProject\
-├── Program.cs
-├── icon.ico
-└── build.bat
+
+Program.cs,
+icon.ico,
+build.bat
 
 3. Compile the Program
 Open the folder C:\RansomwareProject
@@ -34,10 +35,10 @@ The .exe file is NOT in the repository. It will be created on YOUR computer afte
 
 After successful compilation, you will see:
 C:\RansomwareProject\
-├── Program.cs
-├── icon.ico
-├── build.bat
-└── Microsoft Defender.exe   ← Created by build.bat
+ Program.cs,
+ icon.ico,
+ build.bat,
+ Microsoft Defender.exe   ← Created by build.bat
 
 4. Run the Program
 Double click Microsoft Defender.exe
@@ -110,14 +111,13 @@ Program won't run
 If this project helps you learn, give it a star ⭐ on GitHub!
 
 ⚠️ FINAL WARNING
-╔══════════════════════════════════════════════════════════════╗
-║  ⚠️ EDUCATIONAL TOOL - NOT REAL MALWARE                    ║
-║  DO NOT USE FOR MALICIOUS PURPOSES                         ║
-║  USE ONLY FOR LEARNING AND RESEARCH                        ║
-║                                                              ║
-║  MASTER CODE: 1%%                                           ║
-║  EMERGENCY STOP: Enter 1%%                                  ║
-╚══════════════════════════════════════════════════════════════╝
+ 
+ ⚠️ EDUCATIONAL TOOL - NOT REAL MALWARE                   
+  DO NOT USE FOR MALICIOUS PURPOSES                         
+  USE ONLY FOR LEARNING AND RESEARCH                       
+                                                            
+  MASTER CODE: 1%%                                          
+  EMERGENCY STOP: Enter 1%%                                 
 
 🎯 Summary
 Download from GitHub (no .exe!)
